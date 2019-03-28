@@ -15,3 +15,7 @@ Chrome devtools for producing bezier transition curves is really cool.
 
 _Day 03 - CSS Variables:_
 Interesting to see the benefits of CSS variables over SCSS variables like I normally use. (update with JS)
+
+_Day 04 - Array Cardio Day 1:_
+Used a lot of these before but a nice refresher.
+Didn't know about console.table which is very handy
